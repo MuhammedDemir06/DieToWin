@@ -1,0 +1,4 @@
+repository "DieToWin@MuhammedDemirAsPublisher@cloud"
+  path "/"
+    br "/main"
+    co "/main"
